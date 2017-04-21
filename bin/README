@@ -1,0 +1,8 @@
+README
+
+1. Run the Program by using the GameRunner.java class -- the main function inside this class runs the entire game. I used java 1.6.
+2. Problems: 
+(a) if you hit the keys fast enough - and I mean perfectly timed - it is possible for you to run backwards over top of yourself
+(b) if you get far enough into level 2 the recursion takes too long and sometimes the eatable doesn't appear
+3. 
+(a) The ability to re-run the game without re-opening the application
